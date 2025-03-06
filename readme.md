@@ -20,7 +20,6 @@ This project aims to predict stock prices using a Long Short-Term Memory (LSTM) 
 - **Data Preprocessing**: Scaling, sequence creation, and train-test splitting.
 - **LSTM Model**: A deep learning model trained to predict stock prices.
 - **Model Deployment**: A Streamlit web app to interactively predict stock prices.
-- **Optimized Workflow**: The model is trained separately in `stock_price_prediction.ipynb`, and `stock_prediction_app.py` only loads the trained model for predictions to save time.
 
 ## Installation & Setup
 
